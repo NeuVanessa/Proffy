@@ -9,8 +9,6 @@ Os professores podem escolher o melhor horário disponível para eles.
 
 Os alunos podem ver todos os professores disponíveis, filtrando por dia da semana, horário e matéria.
 
-Para ver o **App Mobile**, clique aqui: [Proffy Mobile](https://github.com/ARTHURPC03/Proffy-Mobile) <br />
-Para ver o **Server**, clique aqui: [Proffy API](https://github.com/ARTHURPC03/Proffy-API)
 
 ### 🛠 Tecnologias
 
