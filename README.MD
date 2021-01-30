@@ -1,11 +1,4 @@
 <h1 style="text-align: center; font-weight: bold;">Proffy com Theme Switcher</h1>
-
-## Demo 📸
-
-<div align="center" >
-  <img src="./github/GifWeb.gif" alt="demo-web" height="425">
-</div>
-
 ---
 
 ## Sobre o Projeto
